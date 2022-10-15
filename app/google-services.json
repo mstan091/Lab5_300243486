@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928464143506",
+    "firebase_url": "https://lab5-d7807-default-rtdb.firebaseio.com",
+    "project_id": "lab5-d7807",
+    "storage_bucket": "lab5-d7807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928464143506:android:973aeae7a21ddde706924b",
+        "android_client_info": {
+          "package_name": "alirezamontazer.createbest.productcatalog_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928464143506-8mhcd26mveb25aah3kl523kvtg7u7f3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXCgsL0d9wKU5XH4WyqwHAJOPIP7YwO4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928464143506-8mhcd26mveb25aah3kl523kvtg7u7f3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
